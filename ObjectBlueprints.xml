@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects>
+  <object Name="Creature" Load="Merge">
+    <part Name="PKPRN_PronounDisplayer" />
+  </object>
+</objects>

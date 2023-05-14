@@ -1,0 +1,9 @@
+{
+  "config": {
+    "id": "shownouns",
+    "title": "What Are Your Pronouns Again?",
+    "description": "Displays the pronouns of beings in their description (if you know them).",
+    "author": "petrak@",
+    "version": "0.1.0"
+  }
+}
